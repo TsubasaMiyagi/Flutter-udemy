@@ -11,3 +11,22 @@ https://www.udemy.com/course/flutter-bootcamp-with-dart/
 3. widget → SafeAreaに変更
 
 <img width="387" alt="名称未設定16" src="https://user-images.githubusercontent.com/109131074/184904794-292e217b-7e05-4b06-a828-712a9b3d21d0.png">
+
+```
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        backgroundColor: Colors.teal,
+        body: SafeArea(
+          child: Container(
+            color: Colors.white,
+            child: Text('Hello'),
+          ),
+        ),
+      ),
+    );
+  }
+}
+```
