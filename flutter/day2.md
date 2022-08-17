@@ -4,7 +4,7 @@
 
 ## [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
 
-``` Flutter
+```Dart
 import 'package:flutter/material.dart';
 
 void main() {
