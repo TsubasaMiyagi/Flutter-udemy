@@ -58,12 +58,12 @@ margin: EdgeInsets.fromLTRB(20.0, 30.0, 40.0, 50.0)
 
 [使用方法](https://qiita.com/sekitaka_1214/items/03255fd9f61685503af3)
 
-####mainAxisSize
+#### mainAxisSize
 ```
 mainAxisSize: MainAxisSize.min //max
 ```
 
-####mainAxisAlignment
+#### mainAxisAlignment
 均等配置
 ```
 mainAxisAlignment: MainAxisAlignment.spaceEvenly
@@ -77,7 +77,7 @@ mainAxisAlignment: MainAxisAlignment.center
 mainAxisAlignment: MainAxisAlignment.start(end)
 ```
 
-####crossAxisAlignment
+#### crossAxisAlignment
 ```
 crossAxisAlignment:CrossAxisAlignment.start
 ```
