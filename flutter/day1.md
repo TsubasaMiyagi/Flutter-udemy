@@ -78,7 +78,7 @@ mainAxisAlignment: MainAxisAlignment.spaceEvenly
 mainAxisAlignment: MainAxisAlignment.center
 ```
 
-上（下）寄せ
+上(下)寄せ
 ```
 mainAxisAlignment: MainAxisAlignment.start(end)
 ```
