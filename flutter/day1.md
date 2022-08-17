@@ -55,9 +55,12 @@ margin: EdgeInsets.fromLTRB(20.0, 30.0, 40.0, 50.0)
 ```
 
 ### Column
-**mainAxisSize**
+
 [使用方法]
 (https://qiita.com/sekitaka_1214/items/03255fd9f61685503af3)
+
+**mainAxisSize**
+
 ```
 mainAxisSize: MainAxisSize.min //max
 ```
