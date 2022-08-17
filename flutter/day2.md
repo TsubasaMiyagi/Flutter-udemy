@@ -4,6 +4,18 @@
 
 ## [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
 
+
+```
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+  fonts:
+  - family: Silkscreen
+    fonts:
+    - asset: fonts/Silkscreen-Regular.ttf
+```
+
 ```Dart
 import 'package:flutter/material.dart';
 
