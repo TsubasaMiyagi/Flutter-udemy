@@ -1,4 +1,4 @@
-### Container
+## Container
 [Container class - widgets library - Dart API](https://api.flutter.dev/flutter/widgets/Container-class.html)
 
 ## SafeArea
@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
 }
 ```
 
-### margin,padding
+## margin,padding
 [EdgeInsets class - painting library - Dart API](https://api.flutter.dev/flutter/painting/EdgeInsets-class.html)
 
 全て30.0
@@ -50,7 +50,7 @@ margin: EdgeInsets.only(left:20)
 margin: EdgeInsets.fromLTRB(20.0, 30.0, 40.0, 50.0)
 ```
 
-### Column
+## Column
 
 [使用方法](https://qiita.com/sekitaka_1214/items/03255fd9f61685503af3)
 
@@ -59,7 +59,7 @@ margin: EdgeInsets.fromLTRB(20.0, 30.0, 40.0, 50.0)
 mainAxisSize: MainAxisSize.min //max
 ```
 
-#### mainAxisAlignment
+### mainAxisAlignment
 均等配置
 ```
 mainAxisAlignment: MainAxisAlignment.spaceEvenly
@@ -73,7 +73,7 @@ mainAxisAlignment: MainAxisAlignment.center
 mainAxisAlignment: MainAxisAlignment.start(end)
 ```
 
-#### crossAxisAlignment
+### crossAxisAlignment
 ```
 crossAxisAlignment:CrossAxisAlignment.start
 ```
@@ -90,7 +90,7 @@ crossAxisAlignment:CrossAxisAlignment.strech
 <img width="377" alt="名称未設定19" src="https://user-images.githubusercontent.com/109131074/185047342-d09818b5-f88f-4806-94d4-236c2ae055af.png">
 widthの指定不要、親のColumnの幅に合わせて伸びる
 
-### SizedBox
+## SizedBox
 スペースを作る
 
 ```
