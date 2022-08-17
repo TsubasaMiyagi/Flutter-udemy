@@ -93,3 +93,9 @@ crossAxisAlignment:CrossAxisAlignment.start
 crossAxisAlignment:CrossAxisAlignment.end
 ```
 <img width="373" alt="名称未設定18" src="https://user-images.githubusercontent.com/109131074/185046374-28568a31-4f10-4053-91a6-40515e02e208.png">
+
+```
+crossAxisAlignment:CrossAxisAlignment.strech
+```
+widthの指定不要、親のColumnの幅に合わせて伸びる
+<img width="377" alt="名称未設定19" src="https://user-images.githubusercontent.com/109131074/185047342-d09818b5-f88f-4806-94d4-236c2ae055af.png">
