@@ -30,3 +30,9 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
+
+### margin,padding
+[EdgeInsets class - painting library - Dart API](https://api.flutter.dev/flutter/painting/EdgeInsets-class.html)
+
+上下左右30
+`margin:EdgeInsets.all(30)`
