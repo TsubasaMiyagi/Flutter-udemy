@@ -93,3 +93,12 @@ crossAxisAlignment:CrossAxisAlignment.strech
 ```
 <img width="377" alt="名称未設定19" src="https://user-images.githubusercontent.com/109131074/185047342-d09818b5-f88f-4806-94d4-236c2ae055af.png">
 widthの指定不要、親のColumnの幅に合わせて伸びる
+
+### SizedBox
+スペースを作る
+
+```
+Container(...),
+SizedBox(height:10)
+Container(...),
+```
