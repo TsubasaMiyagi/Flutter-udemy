@@ -63,8 +63,8 @@ margin: EdgeInsets.fromLTRB(20.0, 30.0, 40.0, 50.0)
 ```
 mainAxisSize: MainAxisSize.min //max
 ```
-　　
-**mainAxisAlignment**
+
+**mainAxisAlignment**　　
 
 均等配置
 ```
