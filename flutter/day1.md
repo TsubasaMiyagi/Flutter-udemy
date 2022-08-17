@@ -34,27 +34,23 @@ class MyApp extends StatelessWidget {
 ### margin,padding
 [EdgeInsets class - painting library - Dart API](https://api.flutter.dev/flutter/painting/EdgeInsets-class.html)
 
-上下左右30.0
+全て30.0
+```
+margin:EdgeInsets.all(30.0)
 ```
 
-margin:EdgeInsets.all(30)
+垂直30.0, 水平50.0
 ```
-
-垂直30.0,水平50.0
-```
-
-margin: EdgeInsets.symmetric(vertical: 30, horizontal: 50)
+margin: EdgeInsets.symmetric(vertical: 30.0, horizontal: 50.0)
 ```
 
 左のみ20.0
 ```
-
 margin:EdgeInsets.only(left:20)
 ```
 
 上下左右指定（Left,Top,Right,Bottom）
 ```
-
 margin:EdgeInsets.fromLTRB(20.0, 30.0, 40.0, 50.0)
 ```
 
