@@ -81,3 +81,14 @@ mainAxisAlignment: MainAxisAlignment.center
 ```
 mainAxisAlignment: MainAxisAlignment.start(end)
 ```
+
+**crossAxisAlignment**
+```
+crossAxisAlignment:CrossAxisAlignment.start
+```
+<img width="376" alt="名称未設定18" src="https://user-images.githubusercontent.com/109131074/185045990-c2b8be3d-19d4-45de-b5ad-ad9d7e13cb56.png">
+
+```
+crossAxisAlignment:CrossAxisAlignment.end
+```
+<img width="373" alt="名称未設定18" src="https://user-images.githubusercontent.com/109131074/185046374-28568a31-4f10-4053-91a6-40515e02e208.png">
