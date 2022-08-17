@@ -63,6 +63,7 @@ mainAxisSize: MainAxisSize.min //max
 ```
 
 **mainAxisAlignment**
+
 均等配置
 ```
 mainAxisAlignment: MainAxisAlignment.spaceEvenly
