@@ -76,5 +76,5 @@ mainAxisAlignment: MainAxisAlignment.center
 
 上（下）寄せ
 ```
-mainAxisAlignment: MainAxisAlignment.top(end)
+mainAxisAlignment: MainAxisAlignment.start(end)
 ```
