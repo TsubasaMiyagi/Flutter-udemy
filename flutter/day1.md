@@ -56,8 +56,7 @@ margin: EdgeInsets.fromLTRB(20.0, 30.0, 40.0, 50.0)
 
 ### Column
 
-[使用方法]
-(https://qiita.com/sekitaka_1214/items/03255fd9f61685503af3)
+[使用方法](https://qiita.com/sekitaka_1214/items/03255fd9f61685503af3)
 
 **mainAxisSize**
 
@@ -89,6 +88,7 @@ crossAxisAlignment:CrossAxisAlignment.start
 ```
 <img width="376" alt="名称未設定18" src="https://user-images.githubusercontent.com/109131074/185045990-c2b8be3d-19d4-45de-b5ad-ad9d7e13cb56.png">
 
+
 ```
 crossAxisAlignment:CrossAxisAlignment.end
 ```
@@ -98,5 +98,4 @@ crossAxisAlignment:CrossAxisAlignment.end
 crossAxisAlignment:CrossAxisAlignment.strech
 ```
 <img width="377" alt="名称未設定19" src="https://user-images.githubusercontent.com/109131074/185047342-d09818b5-f88f-4806-94d4-236c2ae055af.png">
-
 widthの指定不要、親のColumnの幅に合わせて伸びる
