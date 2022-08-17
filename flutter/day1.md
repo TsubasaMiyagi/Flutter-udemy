@@ -36,11 +36,13 @@ class MyApp extends StatelessWidget {
 
 上下左右30.0
 ```
+
 margin:EdgeInsets.all(30)
 ```
 
 垂直30.0,水平50.0
 ```
+
 margin: EdgeInsets.symmetric(vertical: 30, horizontal: 50)
 ```
 
