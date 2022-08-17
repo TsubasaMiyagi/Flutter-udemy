@@ -56,7 +56,8 @@ margin: EdgeInsets.fromLTRB(20.0, 30.0, 40.0, 50.0)
 
 ### Column
 **mainAxisSize**
-[使用方法](https://qiita.com/sekitaka_1214/items/03255fd9f61685503af3)
+[使用方法]
+(https://qiita.com/sekitaka_1214/items/03255fd9f61685503af3)
 ```
 mainAxisSize: MainAxisSize.min //max
 ```
@@ -64,18 +65,15 @@ mainAxisSize: MainAxisSize.min //max
 **mainAxisAlignment**
 均等配置
 ```
-
 mainAxisAlignment: MainAxisAlignment.spaceEvenly
 ```
 
 中央寄せ
 ```
-
 mainAxisAlignment: MainAxisAlignment.center
 ```
 
 上（下）寄せ
 ```
-
 mainAxisAlignment: MainAxisAlignment.top(bottom)
 ```
